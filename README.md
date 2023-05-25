@@ -1,49 +1,12 @@
-# Prosument
+# PZSP2
 
-Projekt "Prosument" realizowany w ramach PZSP2 na WEiTI PW
-## Cel projektu
-Celem projektu jest utworzenie sieciowej aplikacji do wizualizacji danych opisujących gospodarkę energetyczną
-u klientów. Na prośbę klienta położyliśmy szczególny nacisk na biznesowy aspekt, czyli sprawiliśmy, aby program
-był przygotowany na realne zastosowanie w przemyśle.
-Dane zbierane są po stronie klienta przez specjalne urządzenia znane jako ”inwertery”, do których podłączone
-są urządzenia, z których korzysta klient. Dalej są one wysyłane na serwer, skąd trafiają do bazy danych, z której
-mogą być odzyskane przez klienta.
+**THIS PROJECT IS NOT YET COMPLETE**
 
-## Użyte technologie
+This is a 4-person project I am making for the class "PZSP2" in FEIT WUT (PW WEiTI).
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,java,spring,mysql" />
-  </a>
-</p>
+Techologies used: 
+- React.js
+- Spring Boot
+- MySQL
 
-Frontend
-* Javascript
-* React.js
-
-Backend
-* Java
-* Spring Boot
-
-Database:
-* MySQL
-
-## Instalacja
-
-**[WIP]** Tu będzie opisana instalacja środowiska projektu.
-
-```bash
-echo "Hello world!"
-```
-
-## Jak korzystać z aplikacji
-
-**[WIP]** Opis działania aplikacji
-
-## Wnętrze aplikacji
-
-![app_diagram](aplikacja_diagram.png)
-
-## License
-
-**[WIP]** Licencja
+Here I work as a full-stack developer. I am responsible some of the most crucial parts of the project, such as the structure of both frontend and backend and also a bit of DB communication.
