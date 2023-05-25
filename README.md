@@ -1,8 +1,8 @@
-# PZSP2
+# PZSP2 - Projekt Zespołowy 2 - Group Project Part 2
 
 **THIS PROJECT IS NOT YET COMPLETE**
 
-This is a 4-person project I am making for the class "PZSP2" in FEIT WUT (PW WEiTI).
+This is a 4-person project I am making for the group project class in the FEIT of the WUT on the 4th semester ("Projekt Zespołowy 2" na WEiTI PW, 4 semestr).
 
 Techologies used: 
 - React.js
