@@ -1,0 +1,3 @@
+[submodule "dokumentacja"]
+	path = dokumentacja
+	url = https://gitlab-stud.elka.pw.edu.pl/akruk2/dokumentacja.git
